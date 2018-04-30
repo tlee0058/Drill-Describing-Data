@@ -1,0 +1,6 @@
+Using Bayes' Rule, additional conditions can be factored in to determine the selection.
+For example, is the option to switch available to all contestants?
+If no, does it raise concern if the host only suggests the option to switch when he/she knows
+that the contestant pick the winning door?
+
+The tone of the host when responding to the contestant pick can always be a give-away.
