@@ -1,6 +1,7 @@
-Using Bayes' Rule, additional conditions can be factored in to determine the selection.
-For example, is the option to switch available to all contestants?
-If no, does it raise concern if the host only suggests the option to switch when he/she knows
-that the contestant pick the winning door?
+Given the option of 3 doors and only one prize is hidden in one of the doors, the probability of picking the correct door is 1 over 3 (1/3), which means there is a greater probability in picking the wrong door.
 
-The tone of the host when responding to the contestant pick can always be a give-away.
+Let's assume the contestant picked the right door first time around, the host would reveal one of the wrong doors, and it would not make sense for the contestant to switch.
+Let's assume again the contestant picked the wrong door on the first time, host would reveal the other wrong door, so switching would be the correct choice.
+Finally, let's assume the contestant also picked the other wrong door on the first try, host would reveal the other wrong door, so switching would also make sense for the contestant.
+
+Given the 3 pontential senarios above, it indicates a greater probability to win when switching door (2 over 3 - 2/3). And since there is a greater chance of the contestant picking the wrong door in the first guess, it would make more sense if the contestants always switch door.
